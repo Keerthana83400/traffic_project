@@ -1,0 +1,34 @@
+[
+  {
+    "direction": "north",
+    "car": 5,
+    "motorcycle": 1,
+    "bus": 1,
+    "truck": 0,
+    "total": 7
+  },
+  {
+    "direction": "east",
+    "car": 4,
+    "motorcycle": 0,
+    "bus": 1,
+    "truck": 0,
+    "total": 5
+  },
+  {
+    "direction": "south",
+    "car": 4,
+    "motorcycle": 0,
+    "bus": 1,
+    "truck": 0,
+    "total": 5
+  },
+  {
+    "direction": "west",
+    "car": 37,
+    "motorcycle": 0,
+    "bus": 0,
+    "truck": 1,
+    "total": 38
+  }
+]
